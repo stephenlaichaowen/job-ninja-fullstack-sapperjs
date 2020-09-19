@@ -1,0 +1,1 @@
+web sapper build --legacy && node __sapper__/build
